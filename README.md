@@ -58,6 +58,12 @@ The labels in the confusion matrix are represented as integers corresponding to 
 ### Max Pooling
 ![Confusion Matrix (Max Pooling)](images/Confusion_matrix_Maxpool.png)
 
+## 📂 Dataset
+
+The dataset used in this project is available on Google Drive:  
+👉 [Download Dataset](https://drive.google.com/drive/folders/1TIgfaql8eRDTmbInn8tWRHQsZdZkx1G1?usp=drive_link)
+
+
 
 ## Requirements
 
